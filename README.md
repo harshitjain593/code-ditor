@@ -8,7 +8,6 @@ This repository contains a simple web-based code editor with three primary featu
 2. [Getting Started](#getting-started)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Features
 
