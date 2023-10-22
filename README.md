@@ -1,4 +1,3 @@
-# code-ditor
 # Code Editor Webpage
 
 This repository contains a simple web-based code editor with three primary features: Save, Copy, and Lock/Unlock.
@@ -29,7 +28,7 @@ To get started with this code editor, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-  https://github.com/harshitjain593/code-ditor
+   git clone 
    ```
 
 2. Open the `index.html` file in a web browser or serve it using a local web server.
