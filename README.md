@@ -13,7 +13,7 @@ This repository contains a simple web-based code editor with three primary featu
 ## Features
 
 ### 1. Save Button
-- The "Save" button allows you to save the content of your code editor to a file. This feature is handy for preserving your work and sharing it with others.
+- The "Save" button allows you to save the content of your code editor. This feature is handy for preserving your work in the code editor itself.
 
 ### 2. Copy Button
 - The "Copy" button enables you to copy the content of your code editor to your clipboard. This feature is useful for quickly sharing code snippets.
@@ -28,7 +28,7 @@ To get started with this code editor, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone 
+   git clone https://github.com/harshitjain593/code-ditor
    ```
 
 2. Open the `index.html` file in a web browser or serve it using a local web server.
@@ -53,6 +53,3 @@ If you'd like to contribute to this project, please follow these guidelines:
 3. Test your changes thoroughly.
 4. Submit a pull request with a clear description of your modifications.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
