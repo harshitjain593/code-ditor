@@ -29,7 +29,7 @@ To get started with this code editor, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/yourusername/code-editor-webpage.git
+  https://github.com/harshitjain593/code-ditor
    ```
 
 2. Open the `index.html` file in a web browser or serve it using a local web server.
